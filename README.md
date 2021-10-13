@@ -1,4 +1,5 @@
 ### React accordion app
+Web page feature that hides information until the '+' button is clicked.
 
 
 #### Idea
